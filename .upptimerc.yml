@@ -8,7 +8,7 @@ sites:
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
- ites:
+ sites:
   - name: SAM IT Solutions
     url: https://samitsolutions.com
   - name: Plesk 2
