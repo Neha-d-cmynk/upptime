@@ -8,68 +8,62 @@ sites:
   - name: Plesk 2
     url: https://plesk2.samitsolutions.com
     port: 8443
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Broken Site Yes
-    url: itsrlybroken1.ksa
-  - name: A Slice Of The Cloud
-    url: asliceofthecloud.com
-  - name: Basketball My World
-    url: basketballmyworld.com
-  - name: Bikaner Electrical
-    url: bikanerelectrical.com
-  - name: Biryani Maxx
-    url: biryanimaxx.com
-  - name: Carolina Retina Eyecare
-    url: carolinaretinaeyecare.com
-  - name: Caryendoscopy Center
-    url: caryendoscopycenter.com
-  - name: Cary Internal Medicine
-    url: caryinternalmedicine.com
-  - name: Center For Digestive Diseases
-    url: centerfordigestivediseases.com
+ ites:
+  - name: SAM IT Solutions
+    url: https://samitsolutions.com
+  - name: Plesk 2
+    url: https://plesk2.samitsolutions.com
+    port: 8443
+  - name: asliceofthecloud
+    url: https://asliceofthecloud.com
+  - name: bikanerelectrical
+    url: https://bikanerelectrical.com
+  - name: biryanimaxx
+    url: 	https://biryanimaxx.com
+  - name: carolinaretinaeyecare
+    url: https://carolinaretinaeyecare.com
+  - name: caryendoscopycenter
+    url: https://caryendoscopycenter.com
+  - name: caryinternalmedicine
+    url: https://caryinternalmedicine.com
+  - name: Center For Digestivediseases
+    url: https://centerfordigestivediseases.com
   - name: Cholanad
-    url: cholanad.com
-  - name: Civentichem
-    url: civentichem.com
-  - name: Clearpoint Health
-    url: clearpointhealth.com
-  - name: Cloven Cardamom
-    url: clovencardamom.com
-  - name: Dev Patagoniahealth
-    url: dev.patagoniahealth.com
-  - name: Directed VR
-    url: directed-vr.com
+    url: https://cholanad.com
+  - name: Clear Pointhealth
+    url: https://clearpointhealth.com
+  - name: clovencardamom
+    url: https://clovencardamom.com
+  - name: cmcbuildinginc
+    url: https://cmcbuildinginc.com
+  - name: directed-vr.com
+    url: https://directed-vr.com
   - name: Docnc
-    url: docnc.org
+    url: https://docnc.org
   - name: Guru Indian Cuisine
-    url: guruindiancuisine.com
+    url: https://guruindiancuisine.com
   - name: Hcilcode
-    url: hcilcode.com
-  - name: IMCS
-    url: imcs.sx 
+    url: https://hcilcode.com
+  - name: Jalwa Indian Bistro
+    url: https://jalwaindianbistro.com
   - name: Laysciences
-    url: laysciences.com
-  - name: Monsoon Indian Cuisine
-    url: monsoonindiancuisine.com
-  - name: Patagonia Health
-    url: patagoniahealth.com
-  - name: PRDBI
-    url: prdbi.com
-  - name: Rahul Priyadarshi
-    url: rahul-priyadarshi.net
-  - name: Sam Analytic Solutions
-    url: samanalyticsolutions.com
-  - name: Samit Solutions
-    url: samitsolutions.com
-  - name: Tandoor Chapelhill
-    url: tandoorchapelhill.com
+    url: https://laysciences.com
+  - name: Oceanbay Indian Cuisine
+    url: https://oceanbayindiancuisine.com
+  - name: Prodigy Biotech
+    url: https://Prodigybiotech.Com
+  - name: Prdbi
+    url: https://prdbi.com
+  - name: Prdbi
+    url: https://samanalyticsolutions.com
+  - name: tandoorchapelhill
+    url: https://tandoorchapelhill.com
+  - name: Taste Of Tandoor
+    url: https://tasteoftandoor.com
   - name: Temoa Cloud
-    url: temoacloud.com
-  - name: Zaykaraleigh
-    url: zaykaraleigh.com
-    
-    
+    url: https://temoacloud.com
+  - name: Zayka Raleigh
+    url: https://zaykaraleigh.com
     
     
 
